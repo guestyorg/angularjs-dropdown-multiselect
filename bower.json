@@ -1,6 +1,6 @@
 {
   "name": "angularjs-dropdown-multiselect",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "authors": [
     "Dotan Simha <dotansimha@gmail.com>"
   ],
@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "angular": "~1.2.0",
-    "lodash": "~2.4.1"
+    "lodash": "^3.4.1"
   },
   "devDependencies": {
     "angular": "~1.2.0",
